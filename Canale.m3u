@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 ,Pinkotv
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Redligth HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 ,Vivid Red
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 ,Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 ,Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 ,PinkErotic 1
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:-1 ,PinkErotic 2
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:-1 ,PinkErotic 3
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 ,PinkErotic 5
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 ,PinkErotic 8
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 ,By : mrcrackpro.blogspot.com
 http://nvid101.cdnii.com/2019/0/20190012-720p.mp4
 #EXTINF:-1 ,By : iptvm3uadult.blogspot.com
@@ -271,14 +291,8 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139461
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 ,Erox
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1 ,PinkoTV
-http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Redlight HD
-http://109.200.130.123:7032/play/353
 #EXTINF:-1 ,Playboy TV
 http://46.181.193.122:81/udp/239.255.42.221:1234
-#EXTINF:-1 ,Hustler TV
-http://78.83.191.18:8000/play/a078
 #EXTINF:-1 ,Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 ,Rough
@@ -355,8 +369,6 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,ExtasY HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 ,REDLIGHT
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 ,ExtasY
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 ,AST TV XXX
