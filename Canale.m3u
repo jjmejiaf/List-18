@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,Russian
+http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 ,Erox
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1 ,Hustler TV
 http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/15975
 #EXTINF:-1 ,XXX Xy MAX
